@@ -13,6 +13,9 @@
         android:theme="@style/Theme.CalmSleep_Project"
         tools:targetApi="31">
         <activity
+            android:name=".test03"
+            android:exported="false" />
+        <activity
             android:name=".test02"
             android:exported="false" />
         <activity
